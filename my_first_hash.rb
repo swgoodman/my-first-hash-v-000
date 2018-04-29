@@ -1,7 +1,9 @@
-def my_hash {
+def my_hash
+  my_hash {
   "favorite artists" => "Young Thug, Vince Staples, Daft Punk",
   "favorite book" => "LOTR"
 }
+end
 
 
 def shipping_manifest
