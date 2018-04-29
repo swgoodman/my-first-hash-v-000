@@ -1,5 +1,5 @@
 def my_hash
-  my_hash {
+  my_hash = {
   "favorite artists" => "Young Thug, Vince Staples, Daft Punk",
   "favorite book" => "LOTR"
 }
